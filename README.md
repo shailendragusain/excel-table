@@ -4,7 +4,7 @@ A jQuery based plugin to convert HTML tables into Excel like grids with features
 
 ### How to Use the library
 
-Check out the demo folder and open index.html file. You'll will see how we've used the plugin there
+Check out the demo folder and open index.html file. You'll will see how we've used the plugin there with few simple steps. 
 
 ### Usage
 
